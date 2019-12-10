@@ -1,0 +1,5 @@
+
+akhamido - implemented kvs store / interface for kvs  / search function 1 (get key)
+vhvan - implemented put
+rogphill - implemented search function 2 (/search/{key})
+tsalh - implemented deleteKey 

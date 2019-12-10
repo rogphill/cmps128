@@ -1,0 +1,4 @@
+akhamido - implemented single site persistent kvs for all nodes, broadcasting to KVS, eventual consistency via gossip
+vhvan - implemented view methods with node replication and consistency
+rogphill - implemented vector clocks and causal consistency
+tsalh - implemented vector clocks and causal consistency
